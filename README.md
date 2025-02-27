@@ -59,6 +59,7 @@ The Personal Portfolio Webpage is a visually appealing and responsive website de
 #### Technologies Used:
 - **HTML**: For structuring the content of the webpage.
 - **CSS**: For styling and layout design.
+- **W3 Web forms For submitting contact form.
 
 #### Potential Use Cases:
 - **Job Applications**: Individuals can use the portfolio to showcase their skills and projects to potential employers.
@@ -67,3 +68,16 @@ The Personal Portfolio Webpage is a visually appealing and responsive website de
 
 #### Conclusion:
 The Personal Portfolio Webpage is a powerful tool for individuals to showcase their skills, projects, and professional information. Its clean and modern design, combined with responsive layout and interactive elements, ensures a positive user experience. Whether for job applications, freelancing, or personal branding, this portfolio webpage provides a comprehensive and visually appealing representation of an individual's professional profile. By leveraging HTML and CSS, the webpage is both easy to create and highly customizable, making it an ideal solution for anyone looking to establish a strong online presence.
+
+#output:
+![Image](https://github.com/user-attachments/assets/2dc92adf-3116-4f49-9b43-402eaa83cb66)
+
+![Image](https://github.com/user-attachments/assets/de23182f-6a6b-40ed-8b01-c97fb60e4902)
+
+![Image](https://github.com/user-attachments/assets/b9bb0ba6-743f-4113-9012-a8cb9d910ae2)
+
+![Image](https://github.com/user-attachments/assets/fa60158a-b0a5-4610-b15e-0ca02ac82ecf)
+
+![Image](https://github.com/user-attachments/assets/052cec5e-b11b-4e10-b5b4-b2de39404989)
+
+![Image](https://github.com/user-attachments/assets/5abedb2e-81ab-44a6-9a9a-ff944a51f02e)
